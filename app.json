@@ -1,11 +1,11 @@
 {
-	"name": "Deploy",
-	"description": "Wa Bot.",
+	"name": "ᏰᎡᏫᏫᏦ ᏚᎯᎷᎯ ☠🗡",
+	"description": "𝐓𝐀𝐌𝐀𝐊𝐈 𝐁𝐎𝐓",
 	"keywords": [
-		"whatsapp",
-		"bot"
+		"one peice is Your uncle",
+		"𝐓𝐀𝐌𝐀𝐊𝐈 𝐁𝐎𝐓 She welcomes you"
 	],
-	"repository": "https://github.com/raganork-ind/whatsapp-bot",
+	"repository": ".....,
 	"stack": "container",
     "env": { 
         "HANDLERS": {
@@ -39,9 +39,9 @@
             "value":""
         },
         "STICKER_DATA": {
-            "description": "Name of stickers created using bot. Can also split using ;",
+            "description": "ᏰᎡᏫᏫᏦ ᏚᎯᎷᎯ ☠🗡;",
             "required": true,
-            "value":"─☆𝑈𝛭𝛥𝑅☆─"
+            "value":"ᏰᎡᏫᏫᏦ ᏚᎯᎷᎯ ☠🗡"
         },
         "CHATBOT": {
             "description": "AI chatbot",
@@ -49,14 +49,14 @@
             "value":"off"
         },
         "BOT_NAME": {
-            "description": "Name of AI chatbot",
+            "description": "𝐓𝐀𝐌𝐀𝐊𝐈 𝐁𝐎𝐓",
             "required": true,
-            "value":"Umar"
+            "value":"ᏰᎡᏫᏫᏦ ᏚᎯᎷᎯ ☠🗡"
         },
         "AUDIO_DATA": {
             "description": "Name of audio (take) name;name;image(url)",
             "required": true,
-            "value":"─☆𝑈𝛭𝛥𝑅☆─;─☆𝑈𝛭𝛥𝑅☆─;https://2.img-dpreview.com/files/p/E~C1000x0S4000x4000T1200x1200~articles/3925134721/0266554465.jpeg"
+            "value":"ᏰᎡᏫᏫᏦ ᏚᎯᎷᎯ ☠🗡; ᏰᎡᏫᏫᏦ ᏚᎯᎷᎯ ☠🗡;https://2.img-dpreview.com/files/p/E~C1000x0S4000x4000T1200x1200~articles/3925134721/0266554465.jpeg"
         },
         "MODE": {
             "description": "Private or public",
@@ -66,7 +66,7 @@
         "SUDO": {
             "description": "These numbers can control your bot. seperate with commas",
             "required": false,
-            "value":"923165123719"
+            "value":"‪+970 567 751 182‬"
         },
         "ALIVE": {
             "description": "Alive message {image/link}, {sender} can also be used",
